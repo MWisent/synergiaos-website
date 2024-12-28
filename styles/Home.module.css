@@ -1,0 +1,33 @@
+.hero {
+  background-color: #000; /* Czarne tło */
+  color: #fff; /* Biały tekst */
+  padding: 4rem 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.heroTitle {
+  font-size: 3rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.heroSubtitle {
+  font-size: 1.25rem;
+  margin-bottom: 2rem;
+}
+
+.heroButton {
+  background-color: #ffcc00; /* Żółty przycisk */
+  color: #000;
+  padding: 1rem 2rem;
+  border: none;
+  border-radius: 2rem; /* Zaokrąglone rogi */
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.heroImage {
+  /* Style dla grafiki w sekcji Hero */
+} 
